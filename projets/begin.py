@@ -1,8 +1,5 @@
 #Afficher un message 
 
-from cmath import sqrt
-
-
 print("Hello, word")
 
 #Afficher une message sur plusieurs lignes
@@ -26,5 +23,6 @@ print("Somme = ", sum,"Reste = ", diff,"quotient = ", div,"produit = ",mult, "Pu
 modulo = nb2%nb2
 
 div_ent = nb2//nb1
+
 
 print("Modulo = ", modulo, "Division entière = ", div_ent)
